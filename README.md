@@ -2,7 +2,7 @@
 - 👀 I’m interested in blockchain development
 - 🌱 I’m currently Solidity
 - 💞️ I’m looking to collaborate on developing ethereum dapps
-- 📫 How to reach me 
+- 📫 How to reach me twitter/discord @inhibitor128
 
 <!---
 inhibitor128/inhibitor128 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
