@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @inhibitor128
 - 👀 I’m interested in blockchain development
-- 🌱 I’m currently Solidity
-- 💞️ I’m looking to collaborate on developing ethereum dapps
+- 🌱 I’m currently learning Java and Solidity
+- 💞️ I’m looking to collaborate on developing ethereum dapps and general coding 
 - 📫 How to reach me twitter/discord @inhibitor128
 
 <!---
