@@ -1,4 +1,3 @@
-  GNU nano 4.8                                                                                brave_browser.sh                                                                                Modified  
 #!/bin/bash
 
 
